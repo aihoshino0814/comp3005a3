@@ -11,3 +11,6 @@ A small Python application that performs CRUD operations against a PostgreSQL "s
 1. Create a database using the sql file.
 2. Run the python code(For a different device the DB_CONFIG content need to be changed)
 3. Enter 1-5 For adding/editing/deleting Database.
+
+# Video Demonstration Link
+https://youtu.be/2zVRlg5Cdm4
